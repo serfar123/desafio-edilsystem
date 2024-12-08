@@ -1,1 +1,2 @@
-export * from './Light';
+export * from './light';
+export * from './dark';
